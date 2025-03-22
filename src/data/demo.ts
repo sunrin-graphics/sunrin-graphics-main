@@ -2,6 +2,13 @@ import { Demo } from "@/types/demo";
 
 export const demo: Demo[] = [
     {
+      year: 2025,
+      title: 'INTRO',
+      subtitle: '2025 · 6회',
+      description:
+        '위대한 여정은 작은 용기에서 시작된다, INTRO'
+    },
+    {
       year: 2024,
       title: 'GENESIS',
       subtitle: '2024 · 5회',
