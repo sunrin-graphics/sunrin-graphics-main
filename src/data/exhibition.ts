@@ -1,5 +1,12 @@
 export const exhibition = [
   {
+    year: 2025,
+    title: 'ARCADIA',
+    subtitle: '2025 · 13회',
+    description: `'아르카디아'는 평화로움과 자유로움에 초점이 맞춰져있는 유토피아를 뜻합니다.자연의 일부인 저희는 현실적인 벽에 가로막혀 자유롭게 표현하지 못했던 것들을 마음껏 표출할 수 있는 세상을 '아르카디아'라고 재정의하여 이번 전시를 통해 보여주고자 합니다.`,
+    link: true
+  },
+  {
     year: 2024,
     title: 'LOUPE',
     subtitle: '2024 · 12회',
