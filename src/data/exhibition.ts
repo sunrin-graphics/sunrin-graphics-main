@@ -1,5 +1,12 @@
 export const exhibition = [
   {
+    year: 2026,
+    title: 'PIECE OF CAKE!',
+    subtitle: '2026 · 14회',
+    description: `'PIECE OF CAKE!'는 완성된 결과물을 보며 쉽다고 말하는 시선 너머, 보이지 않는 곳에서 쌓아 올린 노력의 층들을 케이크 한 조각에 담아낸 전시입니다. 쉬워 보이는 겉모습 아래 숨겨진 진심 어린 과정을 직접 들여다보며, 우리의 가장 달콤한 결실을 맛보시길 바랍니다.`,
+    link: true
+  },
+  {
     year: 2025,
     title: 'ARCADIA',
     subtitle: '2025 · 13회',
