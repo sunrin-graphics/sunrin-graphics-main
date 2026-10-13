@@ -37,7 +37,7 @@ const PresentationSection = forwardRef<HTMLElement, object>((_,ref) => {
               subtitle={v.subtitle}
               description={v.description}
               link={v.link}
-              image={`https://cdn.sunrin.graphics/files/cover/presentation/${v.year}.png`}
+              image={`https://cdn.sunrin.graphics/files/cover/presentation/${v.year}.${v.extension || 'png'}`}
             />
           ))}
         </CardContainer>

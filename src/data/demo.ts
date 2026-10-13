@@ -2,6 +2,15 @@ import { Demo } from "@/types/demo";
 
 export const demo: Demo[] = [
     {
+      year: 2026,
+      title: 'IINFINITY',
+      subtitle: '2026 · 7회',
+      description: `1+1은 2가 아니라 무한대(無限大)입니다.
+1은 새로운 도전을 마주하게 된 여러분을 뜻하고 다른 1은 다시 도전하는 이들을 뜻합니다. 1과 1은 만나 2로 끝나지 않습니다. 
+여러분의 무한한 가능성을 IINFINITY 시연회에서 만나길 바랍니다.`,
+extension:'jpeg',
+    },
+    {
       year: 2025,
       title: 'INTRO',
       subtitle: '2025 · 6회',

@@ -4,5 +4,6 @@ export interface Demo {
     description: string
     subtitle: string
     link?: string
+    extension?: string
   }
   

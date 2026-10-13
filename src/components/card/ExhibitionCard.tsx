@@ -8,6 +8,7 @@ interface CardProps {
   description: string
   subtitle: string
   active?: boolean
+  extension?: string
 }
 
 const ExhibitionCard = (props: CardProps) => {
@@ -15,7 +16,7 @@ const ExhibitionCard = (props: CardProps) => {
     <Container>
       <Image
         src={`
-        https://cdn.sunrin.graphics/files/cover/exhibition/${props.year}.png
+        https://cdn.sunrin.graphics/files/cover/exhibition/${props.year}.${props.extension || 'png'}
       `}
       />
       <CardBottom>

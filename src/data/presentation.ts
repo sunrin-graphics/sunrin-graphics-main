@@ -2,6 +2,17 @@ import { Demo } from "@/types/demo";
 
 export const presentation: Demo[] = [
   {
+    year: 2025,
+    title: '잇다, -빛나다',
+    subtitle: '2026 · 3회',
+    description: `“모든 균열은 가장 빛나는 연결의 흔적이다.”
+도자기의 균열을 금으로 채우는 ‘킨츠기’와 같이
+학생들의 수많은 고민과 시도가 모여 하나의 작품이 되었습니다. 
+치열했던 균열의 흔적을 빛나는 연결의 순간으로 승화시킨 
+콘텐츠디자인과 학과발표회, 그 찬란한 연결의 기록을 소개합니다.`,
+extension:'jpeg',
+  },
+  {
     year: 2024,
     title: '矛盾之象 : 모순지상',
     subtitle: '2024 · 2회',
